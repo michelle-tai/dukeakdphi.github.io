@@ -36,7 +36,7 @@ h1	{	font-size: 1.5em;
 	
 h2	{ font-size: 24px; color: #333333; }
 
-h3 {font-size: 16px; }
+h3 { font-size: 16px; }
 
 .templatemo_reasonbg h2, .templatemo_blog h2, .templatemo_blog p { color: #ffffff; }
 
@@ -647,9 +647,17 @@ and (max-width : 480px) {
 	}
 }
 
-<!-- TO DELETE?? -->
+<!-- TO DELETE?? 
 @media(min-width:300px) and (max-width:500px){
-    #container_2 img { width: 80%; }
+    #container_2 img.resize { width: 300px; height: auto; }
+}-->
+#container_2 {
+    text-align: center;
+}
+
+#container_2 img { 
+    width: 60%; 
+    height: auto;
 }
 
 @media(min-width:992px) {
