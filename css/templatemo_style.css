@@ -474,8 +474,8 @@ img {
     padding: 5px;
 }
 
-ul.nobullet { margin: 0; padding: 0; list-style: none }
-ul.nobullet li { margin: 0; padding: 0 }
+ul.nobullet { margin: 0 ; padding: 0; list-style: none }
+ul.nobullet li { margin: 0 ; padding: 0 }
 
 ul.list_bullet { margin: 10px 0 10px 15px; padding: 0; list-style: none }
 ul.list_bullet li { color:#555; margin: 0 0 7px 0; padding: 0 0 0 20px; background: url(images/templatemo_bullet.png) no-repeat scroll 0 5px  }
@@ -649,7 +649,7 @@ and (max-width : 480px) {
 
 <!-- TO DELETE?? -->
 @media(min-width:300px) and (max-width:500px){
-    #container_2 img { width: 100%; }
+    #container_2 img { width: 80%; }
 }
 
 @media(min-width:992px) {
