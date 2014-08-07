@@ -74,6 +74,7 @@ img {
     font-size: 30px;
     text-align: center;
     font-family: 'Raleway', "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-weight: 300;
 }
 .mainMenu {
 
@@ -128,7 +129,7 @@ img {
 
 .btn-primary {
 	background-color: #5B096A;
-	border-color: #990099;
+	border-color: #5B096A;
 }
 
 .btn-primary:hover {
