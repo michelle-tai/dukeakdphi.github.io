@@ -38,7 +38,7 @@ h2	{ font-size: 24px; color: #333333; }
 
 h3 { font-size: 16px; }
 
-.templatemo_reasonbg h2, .templatemo_blog h2, .templatemo_blog p { color: #ffffff; }
+.templatemo_reasonbg h2, .templatemo_reasonbg p, .templatemo_officers h2, .templatemo_officers p, .inner-hover-box p { color: #ffffff; }
 
 img {
   	max-width: 100%;
@@ -242,6 +242,24 @@ img {
 #templatemo_rush p {
     padding: 0px 100px 00px 100px;
 }
+
+.templatemo_posts {
+	width: 100%;
+	background: #ffffff;
+	padding: 70px 0px;
+	color: #333537;
+	text-align: center;
+}
+
+.templatemo_posts div.fa {
+	font-size: 40px;
+	margin: 40px 8px;
+}
+
+#templatemo_posts p {
+    padding: 0px 200px 00px 200px;
+}
+
 .templatemo_portfolio {
 	padding: 80px 0px;
 	text-align: center;
@@ -268,15 +286,53 @@ img {
 
 
 .templatemo_blog {
+	background: url(../images/templatemo_alumnibg.jpg);
+	background-position: center;
+	padding: 30px 80px 30px 80px;
+	color: #333537;
+	text-align: center;
+    height: auto;
+}
+
+.templatemo_blog p { 
+	padding-bottom: 2px;
+	color: #333537; 
+}
+
+.blog-thumb { overflow: hidden; position: relative; }
+
+.blog-thumb img { width: 100%; height: auto; }
+
+.blog-thumb .overlay-p { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-color: #5B096A; visibility: hidden; opacity: 0; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
+
+.blog-thumb .overlay-p a { position: absolute; top: 10%; margin-top: -12px; left: 5%; width: 90%; margin-left: -15px; color: white; text-align: center; }
+.blog-thumb .overlay-p a ul { text-align: center; margin-top:0.1em;}
+.blog-thumb .overlay-p a ul li	{ padding: 0.1em 0em; margin: 0px; width: 100%; list-style: none;}
+.blog-thumb .overlay-p a ul li.fsmall{ font-size: 0.7em; }
+
+.blog-item { margin-bottom: 40px; overflow: hidden; }
+.blog-item:hover .overlay-p { visibility: visible; opacity: 1; }
+
+.blog-title { width: 100%; text-align: center; }
+.blog-title a { color: #38e395; font-size: 18px; text-transform: uppercase; }
+
+.templatemo_officers {
 	width: 100%;
 	background: #333537;
 	padding: 30px 0px;
 	color: #ffffff;
 	text-align: center;
 }
-.templatemo_blog p { padding-bottom: 2px; }
+.templatemo_officers p { padding-bottom: 2px; }
 
-.templatemo_partner	{ padding: 30px 0px;}
+.templatemo_spotlight	{ 
+	width: 100%;
+	background: #ffffff;
+	padding: 30px 0px;
+	color: #333537;
+	text-align: center;
+}
+.templatemo_spotlight p { padding-bottom: 2px; }
 
 #prev {
   width: 35px;
@@ -531,7 +587,9 @@ and (max-width : 480px) {
 	.templatemo_lightgrey_about	{ padding-top: 150px;}
 	.templatemo_portfolio	{ padding-top: 130px; }
 	.templatemo_blog	{ padding-top: 130px;}
+	.templatemo_officers { padding-top: 130px;}
 	.templatemo_partner	{ padding-top: 130px;}
+	.templatemo_posts	{ padding-top: 130px;}
     
 	.templatemo_lightgrey	{ padding-top: 130px;}
 	.templatemo_margintop10	{
