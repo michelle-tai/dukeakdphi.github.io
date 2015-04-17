@@ -38,7 +38,7 @@ h2	{ font-size: 24px; color: #333333; }
 
 h3 { font-size: 16px; }
 
-.templatemo_reasonbg h2, .templatemo_reasonbg p, .templatemo_officers h2, .templatemo_officers p, .inner-hover-box p { color: #ffffff; }
+.templatemo_reasonbg h2, .templatemo_blog h2, .templatemo_blog p { color: #ffffff; }
 
 img {
   	max-width: 100%;
@@ -268,36 +268,15 @@ img {
 
 
 .templatemo_blog {
-	background: url(../images/templatemo_alumnibg.jpg);
-	background-position: center;
-	padding: 30px 0px 30px 0px;
-	color: #333537;
-	text-align: center;
-    height: auto;
-}
-
-.templatemo_blog p { 
-	padding-bottom: 2px;
-	color: #333537; 
-}
-
-.templatemo_officers {
 	width: 100%;
 	background: #333537;
 	padding: 30px 0px;
 	color: #ffffff;
 	text-align: center;
 }
-.templatemo_officers p { padding-bottom: 2px; }
+.templatemo_blog p { padding-bottom: 2px; }
 
-.templatemo_spotlight	{ 
-	width: 100%;
-	background: #ffffff;
-	padding: 30px 0px;
-	color: #333537;
-	text-align: center;
-}
-.templatemo_spotlight p { padding-bottom: 2px; }
+.templatemo_partner	{ padding: 30px 0px;}
 
 #prev {
   width: 35px;
@@ -552,7 +531,6 @@ and (max-width : 480px) {
 	.templatemo_lightgrey_about	{ padding-top: 150px;}
 	.templatemo_portfolio	{ padding-top: 130px; }
 	.templatemo_blog	{ padding-top: 130px;}
-	.templatemo_officers { padding-top: 130px;}
 	.templatemo_partner	{ padding-top: 130px;}
     
 	.templatemo_lightgrey	{ padding-top: 130px;}
