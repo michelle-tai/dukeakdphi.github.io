@@ -1,5 +1,10 @@
 /* Credit: http://www.templatemo.com */
 
+#container_2 img{
+
+   padding: 0px 50px 10px 50px;
+}
+
 html, body {
 	font-family: 'Raleway', "Trebuchet MS", Arial, Helvetica, sans-serif; 
 	padding: 0px; 
