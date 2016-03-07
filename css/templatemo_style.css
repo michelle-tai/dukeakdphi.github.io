@@ -190,6 +190,11 @@ img {
     font-size: 30px;
 }
 
+#asian-awareness {
+	padding-top: 45px;
+	line-height: 36px;
+}
+
 .hover-box {
     position: absolute;
     top: 0;
