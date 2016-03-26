@@ -289,7 +289,7 @@ img {
 .portfolio-thumb .overlay-p a ul li	{ padding: 0.1em 0em; margin: 0px; width: 100%; font-size: 0.8em; list-style: none;}
 .portfolio-thumb .overlay-p a ul li.fsmall{ font-size: 0.5em; }
 
-.portfolio-item { margin-bottom: 40px; overflow: hidden; }
+.portfolio-item { margin-bottom: 40px; overflow: hidden; height:30vh;}
 .portfolio-item:hover .overlay-p { visibility: visible; opacity: 1; }
 
 .portfolio-title { width: 100%; text-align: center; }
