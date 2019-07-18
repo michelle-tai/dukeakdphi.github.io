@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9d7eb5f-f07f-4b53-8c00-a1f9d85d8a6a" name="Default Changelist" comment="" />
+    <list default="true" id="a9d7eb5f-f07f-4b53-8c00-a1f9d85d8a6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/caps-lock-checker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/ckeditor.launch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/cropper.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/cropper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/featherlight.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/featherlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/handlebars.runtime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/headscripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery-migrate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.bgiframe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.clearsearch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.cluetip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.cluetip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.i18n.properties.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.qtip.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.qtip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/moment-with-locales.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/morpheus.scripts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pasystem.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pasystem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/poweredBySakai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/profile2-eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-association.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-grading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-student-button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-student-preview-button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-student.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubrics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sessionstoragemanager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/tool.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/tool_base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/trimpath-template-latest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/tutorial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/warpwirecontentitem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/webcomponents-loader.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,16 +162,15 @@
       <updated>1559683401233</updated>
       <workItem from="1559683403033" duration="3601000" />
       <workItem from="1560783992352" duration="2357000" />
-      <workItem from="1563413892433" duration="71000" />
+      <workItem from="1563413892433" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6029000" />
+    <option name="totallyTimeSpent" value="6132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
