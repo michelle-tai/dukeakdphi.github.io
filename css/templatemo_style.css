@@ -33,18 +33,19 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 }
 
-h1	{	font-size: 1.5em;
-	color: #ffffff;
-	background: #343537;
-	padding: 10px 8px;
-	float: left;
+h1	{	font-size: 2 em;
+	color: #000000;
+	/*background: #343537;*/
+	/*padding: 10px 8px;*/
+	/*float: left;*/
+	font-weight: bold;
 	}
 	
 h2	{ font-size: 24px; color: #333333; }
 
 h3 { font-size: 16px; }
 
-.templatemo_reasonbg h2, .templatemo_reasonbg p, .templatemo_officers h2, .templatemo_officers p, .inner-hover-box p { color: #ffffff; }
+.templatemo_reasonbg h2, .templatemo_reasonbg p, .templatemo_officers h2, .templatemo_officers p, .inner-hover-box p { color: #777; }
 
 img {
   	max-width: 100%;
@@ -276,7 +277,7 @@ img {
 	text-align: center;
 }
 
-.templatemo_portfolio p { padding-bottom: 50px; }
+.templatemo_portfolio p { padding-bottom: 25px; }
 
 .portfolio-thumb { overflow: hidden; position: relative; }
 
@@ -289,8 +290,12 @@ img {
 .portfolio-thumb .overlay-p a ul li	{ padding: 0.1em 0em; margin: 0px; width: 100%; font-size: 0.8em; list-style: none;}
 .portfolio-thumb .overlay-p a ul li.fsmall{ font-size: 0.5em; }
 
-.portfolio-item { margin-bottom: 40px; overflow: hidden;}
+.portfolio-item { margin-bottom: 10px; overflow: hidden;}
 .portfolio-item:hover .overlay-p { visibility: visible; opacity: 1; }
+.portfolio-item p {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
 
 .portfolio-title { width: 100%; text-align: center; }
 .portfolio-title a { color: #38e395; font-size: 18px; text-transform: uppercase; }
@@ -329,9 +334,8 @@ img {
 
 .templatemo_officers {
 	width: 100%;
-	background: #333537;
+	background: #ffffff;
 	padding: 30px 0px;
-	color: #ffffff;
 	text-align: center;
 }
 .templatemo_officers p { padding-bottom: 2px; }
@@ -451,6 +455,7 @@ img {
 }
 .templatemo_footer	{
 	padding: 40px 0px;
+	background: #e9e9e9;
 }
 
 .templatemo_footer ul {
