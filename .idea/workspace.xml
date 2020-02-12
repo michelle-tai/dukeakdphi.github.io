@@ -1,58 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9d7eb5f-f07f-4b53-8c00-a1f9d85d8a6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/analytics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/caps-lock-checker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/ckeditor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/ckeditor.launch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/cropper.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/cropper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/featherlight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/featherlight.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/handlebars.runtime.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/headscripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery-migrate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery-ui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery-ui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.bgiframe.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.clearsearch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.cluetip.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.cluetip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.i18n.properties.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.qtip.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/jquery.qtip.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/modernizr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/moment-with-locales.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/morpheus.scripts.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pasystem.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pasystem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.buttons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.buttons.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/pnotify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/poweredBySakai.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/print.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/profile2-eb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-association.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-grading.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-student-button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-student-preview-button.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubric-student.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sakai-rubrics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/sessionstoragemanager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/templates.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/tool.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/tool_base.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/trimpath-template-latest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/tutorial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/warpwirecontentitem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/Sakai _ Home _ Calendar_files/webcomponents-loader.js" beforeDir="false" />
-    </list>
+    <list default="true" id="a9d7eb5f-f07f-4b53-8c00-a1f9d85d8a6a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +13,111 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/old_index.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slider/10year_slider.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slider/arrows.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slider/banner.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slider/banner.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slider/slider2.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slider/slider2.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/slider/slider3.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templatemo_home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1560">
+              <caret line="104" column="14" selection-start-line="104" selection-start-column="14" selection-end-line="104" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templatemo_portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="65" column="50" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
+              <folding>
+                <element signature="n#div#0;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#6;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#11;n#div#2;n#header#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/templatemo_style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17820">
+              <caret line="1188" column="13" selection-start-line="1188" selection-start-column="13" selection-end-line="1188" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templatemo_officers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="91" selection-start-line="37" selection-start-column="91" selection-end-line="37" selection-end-column="91" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -103,7 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,18 +163,31 @@
             <path>
               <item name="dukeakdphi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dukeakdphi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dukeakdphi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dukeakdphi.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dukeakdphi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="dukeakdphi.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="slider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dukeakdphi.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dukeakdphi.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="slider" type="462c0819:PsiDirectoryNode" />
+              <item name="f2019" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -167,12 +229,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6132000" />
+    <option name="totallyTimeSpent" value="6348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27106228" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,13 +302,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-23">
-          <caret line="640" column="35" selection-start-line="640" selection-start-column="35" selection-end-line="640" selection-end-column="35" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/old_index.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
